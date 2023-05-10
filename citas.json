@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Pepe",
+        "edad": 3,
+        "tipo": "Gato",
+        "color": "Gris/Blanco",
+        "enfermedad": "Asustadizo"
+    },
+    {
+        "nombre": "Pucca",
+        "edad": 1000,
+        "tipo": "Gato",
+        "color": "Blanco/Dorado",
+        "enfermedad": "Viejita"
+    },
+    {
+        "nombre": "Peluda",
+        "edad": 10,
+        "tipo": "Gato",
+        "color": "Gris",
+        "enfermedad": "Golda"
+    },
+    {
+        "nombre": "Jow",
+        "edad": 1000000,
+        "tipo": "Perro",
+        "color": "Negro",
+        "enfermedad": "Inmortal"
+    }
+]
